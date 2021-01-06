@@ -1,0 +1,4 @@
+F:\Code\VS2019\SQLiteHelper\Debug\SQLiteHelper.exe
+F:\Code\VS2019\SQLiteHelper\Debug\SQLiteHelper.pdb
+F:\Github\SQLiteHelper\Debug\SQLiteHelper.exe
+F:\Github\SQLiteHelper\Debug\SQLiteHelper.pdb
