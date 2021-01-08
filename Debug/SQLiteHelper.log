@@ -1,7 +1,3 @@
-﻿  md5.cpp
-F:\Github\SQLiteHelper\md5.cpp(138,28): warning C4244: “参数”: 从“std::streamsize”转换到“size_t”，可能丢失数据
-  test.cpp
-  正在生成代码...
+﻿  test.cpp
 F:\Github\SQLiteHelper\DBHelper.h(776): warning C4715: “DBHelper::table_user_login”: 不是所有的控件路径都返回值
-  sqlite3.c
   SQLiteHelper.vcxproj -> F:\Github\SQLiteHelper\Debug\SQLiteHelper.exe
